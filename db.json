@@ -7,13 +7,13 @@
         },
         {
             "destination": "dev",
-            "text": "An important event has occurred",
-            "timestamp": "2021-01-01T12:00:00.000Z"
+            "text": "same old",
+            "timestamp": "2021-03-01T12:00:00.000Z"
         },
         {
             "destination": "cit",
-            "text": "An important event has occurred",
-            "timestamp": "2021-01-01T12:00:00.000Z"
+            "text": "fire emergency",
+            "timestamp": "2021-02-01T12:00:00.000Z"
         }
     
     ]
