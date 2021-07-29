@@ -1,4 +1,4 @@
-{"message":[
+[
         {
             "destination": "operations-channel",
             "text": "An important event has occurred",
@@ -16,4 +16,4 @@
         }
     ]
     
-}
+
